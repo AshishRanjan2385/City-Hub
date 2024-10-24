@@ -56,7 +56,7 @@ nav{
 
 .hero {
   min-height: 60vh;
-  background: url("/roon.jpg"), linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  background: url("./roon.jpg"), linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
   background-blend-mode: overlay;
   background-size: cover;
   background-repeat: no-repeat;
